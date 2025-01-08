@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Robert, an <a href="https://www.linkedin.com/in/iamrobertkirk/">IT Professional</a>☺</h1>
 
-<!--
-**iamrobertkirk/iamrobertkirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🖥️Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Azure Cloud Solutions</b>
+  - [Developing and Managing Virtual Machines](https://github.com/iamrobertkirk/CREATING-VIRTUAL-MACHINE)
+  - [Configuring Static Public IP Addresses for Virtual Machines](https://github.com/iamrobertkirk/VM-PUBLIC-IP-ADDRESS-FIX)
+  - [Administering Domain Users and Access Controls](https://github.com/iamrobertkirk/DOMAIN-USER-MANAGEMENT)
+   
+<h2>📲Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Robert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Robert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/iamrobertkirk/
+[linkedin]: https://www.linkedin.com/in/iamrobertkirk/
